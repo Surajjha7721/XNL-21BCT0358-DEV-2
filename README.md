@@ -1,8 +1,8 @@
 # 🚀 DevOps Microservices Project  
 **A high-performance, AI-powered microservices-based cloud application with multi-cloud deployment, advanced security, and extreme scalability.**  
 
-![Microservices Architecture]([https://user-images.githubusercontent.com/example.jpg](https://github.com/VyasRishabh/Devops/blob/main/ZLPDJzj04Br7odyOSMYfIg1gBprL62T022O1Xt9073RE9jd6tersrwXfnN_ls6jxruuJoW4fy_7cO-Sz-Lnf8dMQnDsEPZgcqAUluus2W4LIA2fVMKGLU39QCKqZdKhQxNGxQituXaYIGCmurTiD1I7rIhYUH70HhQH8A6YPvcaVuL8AhYcVTpiR4gt9ai9HQJg2lzqEuD_p7VsjJtyfE8.png))  
-*(Replace with actual architecture diagram image)*  
+![Microservices Architecture](https://github.com/VyasRishabh/Devops/blob/main/ZLPDJzj04Br7odyOSMYfIg1gBprL62T022O1Xt9073RE9jd6tersrwXfnN_ls6jxruuJoW4fy_7cO-Sz-Lnf8dMQnDsEPZgcqAUluus2W4LIA2fVMKGLU39QCKqZdKhQxNGxQituXaYIGCmurTiD1I7rIhYUH70HhQH8A6YPvcaVuL8AhYcVTpiR4gt9ai9HQJg2lzqEuD_p7VsjJtyfE8.png)  
+
 
 ---
 
@@ -173,5 +173,3 @@ Copy
 Edit
 
 ---
-
-This `README.md` is **well-structured**, **beautiful**, and **highly detailed** for a professional GitHub project. Let me know if you need modifications! 🚀
