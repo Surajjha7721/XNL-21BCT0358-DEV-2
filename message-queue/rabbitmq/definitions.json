@@ -1,0 +1,36 @@
+{
+    "users": [
+      {
+        "name": "admin",
+        "password": "password",
+        "tags": "administrator"
+      }
+    ],
+    "vhosts": [
+      {
+        "name": "/"
+      }
+    ],
+    "permissions": [
+      {
+        "user": "admin",
+        "vhost": "/",
+        "configure": ".*",
+        "write": ".*",
+        "read": ".*"
+      }
+    ],
+    "queues": [
+      {
+        "name": "user-events",
+        "vhost": "/",
+        "durable": true
+      },
+      {
+        "name": "analytics-events",
+        "vhost": "/",
+        "durable": true
+      }
+    ]
+  }
+  
